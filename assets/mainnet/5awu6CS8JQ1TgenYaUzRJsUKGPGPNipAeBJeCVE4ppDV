@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "5awu6CS8JQ1TgenYaUzRJsUKGPGPNipAeBJeCVE4ppDV",
+  "symbol": "USDT",
+  "name": "Tether USD",
+  "decimals": 9,
+  "logoURI": "https://ipfs.satsuma.xyz/ipfs/QmaUho94Ka5x8PEbszTYdzNdZx2HgxUMCy75s19LS5fy4H",
+  "tags": ["stablecoin"],
+  "extensions": {
+    "updateAuthority": "CPW5y4dyKhN76GAFxDaWB5p4RECMCLVrXvKsvokTi6Cr",
+    "source": "community",
+    "coingeckoId": ""
+  }
+}
