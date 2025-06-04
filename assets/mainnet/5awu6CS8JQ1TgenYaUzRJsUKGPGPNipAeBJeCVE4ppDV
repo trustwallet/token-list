@@ -1,0 +1,23 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "Token",
+  "image": "https://ipfs.satsuma.xyz/ipfs/Qmb1sVtxEon5gzE7ArvCpULcU3zGMWGvGnfsGn6GkXwP5L",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://ipfs.satsuma.xyz/ipfs/Qmb1sVtxEon5gzE7ArvCpULcU3zGMWGvGnfsGn6GkXwP5L",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CPW5y4dyKhN76GAFxDaWB5p4RECMCLVrXvKsvokTi6Cr",
+        "share": 100
+      }
+    ]
+  }
+}
