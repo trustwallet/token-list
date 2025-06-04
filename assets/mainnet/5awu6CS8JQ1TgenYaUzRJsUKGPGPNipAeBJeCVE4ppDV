@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "5awu6CS8JQ1TgenYaUzRJsUKGPGPNipAeBJeCVE4ppDV",
+  "symbol": "USDT",
+  "name": "Tether USD",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/NilanRitvik/token-list/main/assets/mainnet/5awu6CS8JQ1TgenYaUzRJsUKGPGPNipAeBJeCVE4ppDV/logo.png",
+  "tags": ["stablecoin"],
+  "extensions": {
+    "updateAuthority": "CPW5y4dyKhN76GAFxDaWB5p4RECMCLVrXvKsvokTi6Cr",
+    "source": "community",
+    "coingeckoId": ""
+  }
+}
