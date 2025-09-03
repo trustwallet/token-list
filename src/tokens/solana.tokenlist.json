@@ -32282,3 +32282,18 @@
     "patch": 3
   }
 }
+{
+  "chainId": 101,
+  "address": "7wyWr78qCjWPDKRFPFkgTyWLo1RTkiUN9hY3cNjPr9Kq",
+  "symbol": "STC",
+  "name": "Sitcoin",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/token-list/main/assets/mainnet/7wyWr78qCjWPDKRFPFkgTyWLo1RTkiUN9hY3cNjPr9Kq.png",
+  "tags": ["utility-token"],
+  "extensions": {
+    "website": "https://sitcoin.co",
+    "twitter": "https://twitter.com/SitcoinToken",
+    "serumV3Usdt": "",
+    "coingeckoId": ""
+  }
+}
